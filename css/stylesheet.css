@@ -1,0 +1,17 @@
+/*
+Edicoes extras
+*/
+
+.bg-sesap {
+    background-color: #0090E4;
+}
+
+footer a, a:hover {
+    color: whitesmoke;
+}
+
+footer ul li {
+    display : inline-block;
+    margin: 10px;
+}
+    
